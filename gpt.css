@@ -1,0 +1,48 @@
+*{
+    margin: 0rem;
+    padding: 0rem;
+    border-block: ;
+}
+.nav-class{
+    padding: 0rem;
+    margin: 0rem;
+    background-color: blue;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    gap: 3rem;
+    align-items: flex-end;
+
+
+
+}
+.div-class{
+    gap: 3rem;
+    display: flex;
+}
+.div-class> a {
+    text-decoration: none;
+    color: brown
+    cursor: pointer;
+    font: size 18px;
+
+}
+.section-class{
+    background-color: rgb(226, 46, 46);
+    color: black;
+    min-height: 50vh;
+    padding:0rem;
+    margin:0rem;
+  
+
+
+}
+.div-class{
+    color: black;
+    width:80%
+    marging:auto
+
+
+}
+}
+
